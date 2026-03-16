@@ -1,4 +1,4 @@
-# AI Product Generator - Deployment Guide
+# AI Product Generator 
 
 ## ✅ Project Setup Complete
 
