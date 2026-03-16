@@ -99,4 +99,3 @@ ai-product-generator/
 3. ⏳ Deploy Frontend on Vercel
 4. ⏳ Test the application
 
-Good luck! 🚀
